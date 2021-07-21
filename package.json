@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/BIKASH-DASH/Tailwind/issues"
   },
-  "homepage": "https://github.com/BIKASH-DASH/Tailwind#readme"
+  "homepage": "https://github.com/BIKASH-DASH/Tailwind#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.5"
+  }
 }
